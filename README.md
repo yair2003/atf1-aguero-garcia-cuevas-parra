@@ -1,1 +1,1 @@
-# atf1-aguero-garcia-cuevas-parra
+La aplicación web sirve para la gestión de ventas y almacenamiento de la empresa Gloria.
